@@ -2,10 +2,11 @@ package study.javabase;
 
 public class HelloWorld extends Runnable{
     int a;
+    int AAAAA;
 
     public int gaetA() {
         return a;
-a
+
     }
 
     @Override
