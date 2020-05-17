@@ -5,6 +5,7 @@ public class HelloWorld extends Runnable{
 
     public int gaetA() {
         return a;
+
     }
 
     @Override
